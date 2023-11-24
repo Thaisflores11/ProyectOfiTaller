@@ -1,5 +1,6 @@
-import { BtnAcceso } from "../atomos/BtnAcceso"
-import { BtnRegistrarse } from "../atomos/BtnRegistrarse"
+import { BtnAcceso } from './BtnAcceso'
+import { BtnRegistrarse } from './BtnRegistrarse'
+import './stylecomponents/OpcionAoR.css'
 export function OpcionAoR(){
     return(
         <div className = "Opboton">
