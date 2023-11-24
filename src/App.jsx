@@ -1,15 +1,14 @@
 import { useState } from 'react'
 import './App.css'
-//import Welcomee from './views/VistaWelcome'
-import { Rellenus } from './components/Rellenus'
-import {OpcionAoR} from  './components/OpcionAoR'
+//import Welcomee from './views/VistaWelcome
+import Sucursales from './views/sucursales'
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <OpcionAoR/>
-      <Rellenus />
+      <Sucursales/>
+  
     </>
   )
 }
