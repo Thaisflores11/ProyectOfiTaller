@@ -7,12 +7,15 @@ import BarraNavegaciones from './components/barraNavegaciones'
 import Ubicaciones from './components/ubicaciones'
 import Menu from './components/menu'
 
+import VistaPastel from './views/VistaPastel1'
+
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
       <Ubicaciones />
+      <Welcomee />
       
       
     </>
