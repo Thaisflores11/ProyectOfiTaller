@@ -1,7 +1,6 @@
 
 
 .ingredientes p{
-    background-color: var(--colordefondo1);
     color: #FFF;
     font-family: Inter;
     font-size: 15px;
@@ -19,5 +18,4 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    background-color: var(--colordefondo1);
 }

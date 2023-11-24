@@ -17,8 +17,9 @@ function App() {
 
   return (
     <>
-      
-      <Welcomee />
+    
+      <OpcionAoR />
+      <Rellenus/>
       
     </>
   )
