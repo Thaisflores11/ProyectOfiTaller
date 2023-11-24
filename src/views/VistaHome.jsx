@@ -1,10 +1,11 @@
 import React from 'react'
-
+import Cabezera from '../components/Cabezera'
 function VistaHome() {
   return (
-    <div>
+    <>
+        <Cabezera />
       
-    </div>
+    </>
   )
 }
 

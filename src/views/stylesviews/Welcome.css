@@ -3,13 +3,13 @@ body
     
     background-color:var(--colordefondo1);
 }
-divo
+.divo
 {
     padding: 20px;
     margin: 10px;
     display: flex;   
 }
-secim{
+.secim{
     display: flex;
     justify-content: center;
 }
