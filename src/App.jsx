@@ -9,6 +9,9 @@ import Menu from './components/menu'
 
 import VistaPastel from './views/VistaPastel1'
 
+//import Welcomee from './views/VistaWelcome'
+import { Rellenus } from './components/Rellenus'
+import {OpcionAoR} from  './components/OpcionAoR'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -18,6 +21,8 @@ function App() {
       <Welcomee />
       
       
+      <OpcionAoR/>
+      <Rellenus />
     </>
   )
 }
