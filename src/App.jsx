@@ -12,15 +12,16 @@ import VistaPastel from './views/VistaPastel1'
 //import Welcomee from './views/VistaWelcome'
 import { Rellenus } from './components/Rellenus'
 import {OpcionAoR} from  './components/OpcionAoR'
+//import Welcomee from './views/VistaWelcome
+import Sucursales from './views/sucursales'
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    
-      <OpcionAoR />
-      <Rellenus/>
       
+      <Sucursales/>
+  
     </>
   )
 }
