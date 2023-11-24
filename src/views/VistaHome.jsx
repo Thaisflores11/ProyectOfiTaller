@@ -9,4 +9,4 @@ function VistaHome() {
   )
 }
 
-export default VistaHome
+export default VistaHome;
