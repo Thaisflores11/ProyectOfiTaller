@@ -17,12 +17,9 @@ function App() {
 
   return (
     <>
-      <Ubicaciones />
+      
       <Welcomee />
       
-      
-      <OpcionAoR/>
-      <Rellenus />
     </>
   )
 }
